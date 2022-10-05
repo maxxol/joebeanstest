@@ -1,0 +1,87 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="1080" Width="1920"
+        WindowState="Maximized"
+        WindowStyle="None"
+        Background="#FF171731">
+    <Grid Grid.IsSharedSizeScope="True">
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="850"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Image Source="E:\MainProjectArcadeGame\WpfApp1\Images\logomainscreen.png" HorizontalAlignment="Center"/>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition Width="3*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Image Grid.Column="1" Source="E:\MainProjectArcadeGame\WpfApp1\Images\ddtthe5-f1ce4f26-fdf0-400c-b8e2-2ab8b14c8ac7.png" Stretch="Fill"/>
+            <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+                <Button Grid.Column="0"
+                        FontFamily="Arial Black"
+                        FontSize="60"
+                        Background="#FF31315B"
+                        BorderThickness="3"
+                        BorderBrush="RoyalBlue"
+                        Width="400" Height="150"
+                        Content="Play" 
+                        x:Name="PlayButton" Click="PlayButton_Click"/>
+                <Button Grid.Column="0"
+                        FontFamily="Arial Black"
+                        FontSize="60"
+                        Background="#FF31315B"
+                        BorderThickness="3"
+                        BorderBrush="RoyalBlue"
+                        Width="400" Height="150"
+                        Content="High Score" 
+                        x:Name="HighScoreButton"/>
+                <Button Grid.Column="0"
+                        FontFamily="Arial Black"
+                        FontSize="60"
+                        Background="#FF31315B"
+                        BorderThickness="3"
+                        BorderBrush="RoyalBlue"
+                        Width="400" Height="150"
+                        Content="Settings" 
+                        x:Name="SettingsButton"/>
+                <Button Grid.Column="0"
+                        FontFamily="Arial Black"
+                        FontSize="60"
+                        Background="#FF31315B"
+                        BorderThickness="3"
+                        BorderBrush="RoyalBlue"
+                        Width="400" Height="150"
+                        Content="Quit" 
+                        x:Name="QuitButton" Click="QuitButtonClick"/>
+            </StackPanel>
+            <StackPanel>
+        <StackPanel>
+            <Label
+                x:Name="NameLabel"
+                Content= ""
+                FontWeight="Bold"
+                Background="Blue"/>
+            <TextBox
+                x:Name="MainTextBox"
+                Width="200px"
+                Margin="10"
+                HorizontalAlignment="Left" />
+            <Button
+                x:Name="NameInputButton"
+                Width="100"
+                Margin="10"
+                HorizontalAlignment="Left"
+                Content="Naam toevoegen"
+                Click="NameInputButton_Click" />
+
+
+        </StackPanel>
+                </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

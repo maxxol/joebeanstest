@@ -1,0 +1,120 @@
+C:\Users\youri\Desktop\School Huiswerk\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+C:\Users\youri\Desktop\School Huiswerk\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+C:\Users\youri\Desktop\School Huiswerk\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\youri\Desktop\School Huiswerk\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\youri\Desktop\School Huiswerk\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\youri\Desktop\School Huiswerk\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\youri\Desktop\School Huiswerk\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\GameWindow.g.cs
+C:\Users\youri\Desktop\School Huiswerk\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\youri\Desktop\School Huiswerk\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\youri\Desktop\School Huiswerk\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\youri\Desktop\School Huiswerk\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\youri\Desktop\School Huiswerk\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\GameWindow.baml
+C:\Users\youri\Desktop\School Huiswerk\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\youri\Desktop\School Huiswerk\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+C:\Users\youri\Desktop\School Huiswerk\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\youri\Desktop\School Huiswerk\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\youri\Desktop\School Huiswerk\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\youri\Desktop\School Huiswerk\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\youri\Desktop\School Huiswerk\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\youri\Desktop\School Huiswerk\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+C:\Users\youri\Desktop\School Huiswerk\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\youri\Desktop\School Huiswerk\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\youri\Desktop\School Huiswerk\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+C:\Users\youri\Desktop\School Huiswerk\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\youri\Desktop\School Huiswerk\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\youri\Desktop\School Huiswerk\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\youri\Desktop\School Huiswerk\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\youri\Desktop\School Huiswerk\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\youri\Desktop\School Huiswerk\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\youri\Desktop\School Huiswerk\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CopyComplete
+C:\Users\youri\Desktop\School Huiswerk\Game Physics Wpf\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+C:\Users\youri\Desktop\School Huiswerk\Game Physics Wpf\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+C:\Users\youri\Desktop\School Huiswerk\Game Physics Wpf\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\youri\Desktop\School Huiswerk\Game Physics Wpf\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\youri\Desktop\School Huiswerk\Game Physics Wpf\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\youri\Desktop\School Huiswerk\Game Physics Wpf\WpfApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\youri\Desktop\School Huiswerk\Game Physics Wpf\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\youri\Desktop\School Huiswerk\Game Physics Wpf\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\youri\Desktop\School Huiswerk\Game Physics Wpf\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\youri\Desktop\School Huiswerk\Game Physics Wpf\WpfApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\youri\Desktop\School Huiswerk\Game Physics Wpf\WpfApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\youri\Desktop\School Huiswerk\Game Physics Wpf\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\youri\Desktop\School Huiswerk\Game Physics Wpf\WpfApp1\obj\Debug\net6.0-windows\GameWindow.g.cs
+C:\Users\youri\Desktop\School Huiswerk\Game Physics Wpf\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\youri\Desktop\School Huiswerk\Game Physics Wpf\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\youri\Desktop\School Huiswerk\Game Physics Wpf\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\youri\Desktop\School Huiswerk\Game Physics Wpf\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\youri\Desktop\School Huiswerk\Game Physics Wpf\WpfApp1\obj\Debug\net6.0-windows\GameWindow.baml
+C:\Users\youri\Desktop\School Huiswerk\Game Physics Wpf\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\youri\Desktop\School Huiswerk\Game Physics Wpf\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+C:\Users\youri\Desktop\School Huiswerk\Game Physics Wpf\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\youri\Desktop\School Huiswerk\Game Physics Wpf\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\youri\Desktop\School Huiswerk\Game Physics Wpf\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\youri\Desktop\School Huiswerk\Game Physics Wpf\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\youri\Desktop\School Huiswerk\Game Physics Wpf\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CopyComplete
+C:\Users\youri\Desktop\School Huiswerk\Game Physics Wpf\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\youri\Desktop\School Huiswerk\Game Physics Wpf\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+C:\Users\youri\Desktop\School Huiswerk\Game Physics Wpf\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\youri\Desktop\School Huiswerk\Game Physics Wpf\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\youri\Desktop\School Huiswerk\Game Physics Wpf\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+E:\Game Physics Wpf\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+E:\Game Physics Wpf\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+E:\Game Physics Wpf\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+E:\Game Physics Wpf\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+E:\Game Physics Wpf\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+E:\Game Physics Wpf\WpfApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\Game Physics Wpf\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Game Physics Wpf\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\Game Physics Wpf\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\Game Physics Wpf\WpfApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Game Physics Wpf\WpfApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Game Physics Wpf\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+E:\Game Physics Wpf\WpfApp1\obj\Debug\net6.0-windows\GameWindow.g.cs
+E:\Game Physics Wpf\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Game Physics Wpf\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+E:\Game Physics Wpf\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+E:\Game Physics Wpf\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+E:\Game Physics Wpf\WpfApp1\obj\Debug\net6.0-windows\GameWindow.baml
+E:\Game Physics Wpf\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Game Physics Wpf\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+E:\Game Physics Wpf\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Game Physics Wpf\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+E:\Game Physics Wpf\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+E:\Game Physics Wpf\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+E:\Game Physics Wpf\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CopyComplete
+E:\Game Physics Wpf\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+E:\Game Physics Wpf\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+E:\Game Physics Wpf\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+E:\Game Physics Wpf\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+E:\Game Physics Wpf\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+E:\MainProjectArcadeGame\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+E:\MainProjectArcadeGame\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+E:\MainProjectArcadeGame\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+E:\MainProjectArcadeGame\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+E:\MainProjectArcadeGame\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+E:\MainProjectArcadeGame\WpfApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\MainProjectArcadeGame\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\MainProjectArcadeGame\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\MainProjectArcadeGame\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\MainProjectArcadeGame\WpfApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\MainProjectArcadeGame\WpfApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\MainProjectArcadeGame\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+E:\MainProjectArcadeGame\WpfApp1\obj\Debug\net6.0-windows\GameWindow.g.cs
+E:\MainProjectArcadeGame\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\MainProjectArcadeGame\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+E:\MainProjectArcadeGame\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+E:\MainProjectArcadeGame\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+E:\MainProjectArcadeGame\WpfApp1\obj\Debug\net6.0-windows\GameWindow.baml
+E:\MainProjectArcadeGame\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+E:\MainProjectArcadeGame\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+E:\MainProjectArcadeGame\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\MainProjectArcadeGame\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+E:\MainProjectArcadeGame\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+E:\MainProjectArcadeGame\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+E:\MainProjectArcadeGame\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CopyComplete
+E:\MainProjectArcadeGame\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+E:\MainProjectArcadeGame\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+E:\MainProjectArcadeGame\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+E:\MainProjectArcadeGame\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+E:\MainProjectArcadeGame\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
